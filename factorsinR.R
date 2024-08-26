@@ -1,3 +1,4 @@
+
 # R Factors
 # factors are used to categorize data eg maybe gender, age difference, strngths and weaknesses, courses done, etc # nolint
 # to create a factor, use the factor() function

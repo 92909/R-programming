@@ -1,3 +1,4 @@
+
 # This is data displayed as a table format
 # A data frame can have different data types
 # but every column must have a similar data type
